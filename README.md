@@ -1,12 +1,20 @@
 ### Hi there 👋
 *****************
 
-Hellen
+About me :
 
-Data Analyst
+Data Analyst >>>
 
-I love to learn new concepts and frameworks
+-I have been told I am witty and I believed it ;)
 
-I am a Scorpio :)
+-I love to learn new concepts and frameworks
+
+***volunteer at Citizen Advice Bureau***
+
+-I read alot and can speak a ton of languages :)
+
+***I have travelled all my life ***
+
+>> ps. programming is starting to make sense
 
 >>>
