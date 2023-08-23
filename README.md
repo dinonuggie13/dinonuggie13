@@ -3,11 +3,11 @@
 
 About me :
 
-Data Analyst >>>
+Data Analyst Major >>>
 
 -I have been told I am witty and I believed it ;)
 
--I love to learn new concepts and frameworks
+-I love to learn In general
 
 ***volunteer at Citizen Advice Bureau***
 
@@ -15,6 +15,7 @@ Data Analyst >>>
 
 ***I have travelled all my life ***
 
->> ps. programming is starting to make sense
+>> ps. programming is starting to make sense  - I am learning C#
+>> 
 
 >>>
