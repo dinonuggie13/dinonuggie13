@@ -1,16 +1,12 @@
-<h1> Hellen Gulzari </h1>
-
-<hr>
+<h1> Hellen Gulzari - Data Analyst Major </h1>
 
 <br>
-<section color="grey">
 
-<h2>Data Analyst Major </h2>
 
-I am a current second-year IT student, majoring in data analysis. The following repositories are some of my work exemplars.  
+A detail-oriented and analytical data analyst with a passion for uncovering insights from complex data sets. I specialize in SQL, Python, and visualization tools like Tableau. My skills include data cleaning, wrangling, and transforming; statistical analysis; machine learning; and building interactive dashboards. Let's crunch some numbers and uncover the story hiding in the data!
 
 
 <h4>Find me on the web 🌏</h4>
 Portfollio: 
 https://hellengulzari47.wixsite.com/bavar
-</section>
+
