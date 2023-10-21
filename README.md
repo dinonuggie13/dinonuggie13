@@ -1,4 +1,4 @@
-<h1> Hellen Gulzari - Data Analyst Major </h1>
+<h1> Hellen Gulzari, Data Analyst Major </h1>
 
 <br>
 
