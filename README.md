@@ -3,7 +3,7 @@
 <br>
 
 
-A detail-oriented and analytical data analyst with a passion for uncovering insights from complex data sets. I specialize in SQL, Python, and visualization tools like Tableau. My skills include data cleaning, wrangling, and transforming; statistical analysis; machine learning; and building interactive dashboards. Let's crunch some numbers and uncover the story hiding in the data!
+I am a detail-oriented and analytical data analyst student with a passion for uncovering insights from complex data sets. I specialize in SQL, Python, and visualization tools like Power BI. My skills include data cleaning, wrangling, and transforming; statistical analysis; machine learning; and building interactive dashboards. Let's crunch some numbers and uncover the story hiding in the data!
 
 
 <h4>Find me on the web 🌏</h4>
